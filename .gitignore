@@ -1,0 +1,8 @@
+# jeligramy ディレクトリを除外（独立したGitリポジトリとして管理）
+jeligramy/
+
+# その他の一般的な除外ファイル
+.DS_Store
+node_modules/
+*.log
+
